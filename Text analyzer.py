@@ -1,3 +1,8 @@
+"""projekt_1.py: první projekt do Engeto Online Python Akademie
+author: Tomáš Šmíd
+email: tomas.smid@gmail.com
+discord: Tomáš Š#9081
+"""
 TEXTS = ['''
 Situated about 10 miles west of Kemmerer,
 Fossil Butte is a ruggedly impressive
